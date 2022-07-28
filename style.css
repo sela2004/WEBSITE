@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kaisei+Opti:wght@700&family=Montserrat:wght@600;700&family=Splash&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kaisei+Opti:wght@700&family=Montserrat:wght@600;700&family=Splash&display=swap");
 img {
   height: 200px;
   width: auto;
@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-  font-family: Montserrat;
+  font-family: DancingScript;
 }
 h3 {
   font-family: Noto Sans Simplified Chinese;
@@ -27,21 +27,21 @@ h3 {
   border: 5px solid black;
   height: 60px;
   align-items: center;
-  background-color: tomato;
+  background-color: turquoise;
 }
 
 .navbar a {
   margin-left: 60px;
   margin-right: 150px;
   text-decoration: none;
-  color: white;
+  color: rosybrown;
   font-size: 20px;
-  font-family: Montserrat;
+  font-family: DancingScript;
 }
 
 .footer {
-  background-color: red;
-  height: 25px;
+  background-color: lawngreen;
+  height: 35px;
 }
 
 b {
@@ -49,5 +49,5 @@ b {
 }
 
 .container {
-  background-color: wheat;
+  background-color: lightblue;
 }
