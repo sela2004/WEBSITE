@@ -3,6 +3,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kaisei+Opti:wght@700&family=Montserrat:wght@600;700&family=Splash&display=swap");
 
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Great+Vibes&family=Kaisei+Opti:wght@700&family=Montserrat:wght@600;700&family=Splash&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Great+Vibes&family=Kaisei+Opti:wght@700&family=Lobster&family=Montserrat:wght@600;700&family=Splash&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Great+Vibes&family=Kaisei+Opti:wght@700&family=Lobster&family=Montserrat:wght@600;700&family=Splash&display=swap");
+
 img {
   height: 200px;
   width: auto;
@@ -15,13 +20,17 @@ img {
 h1 {
   text-align: center;
   font-family: Montserrat;
+  font-family: Lobster;
 }
 
 h2 {
-  font-family: DancingScript;
+  font-family: Lobster;
 }
 h3 {
   font-family: Noto Sans Simplified Chinese;
+}
+p {
+  font-family: Edu NSW ACT Foundation;
 }
 
 .navbar {
@@ -38,8 +47,7 @@ h3 {
   text-decoration: none;
   color: rosybrown;
   font-size: 20px;
-  font-family: DancingScript;
-  font-family: Great;
+  font-family: Great Vibes;
 }
 
 .footer {
@@ -52,5 +60,5 @@ b {
 }
 
 .container {
-  background-color: lightblue;
+  background-color: white;
 }
